@@ -1,6 +1,6 @@
 {
   "name": "co-wechat-enterprise-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "微信企业号Node库API，ES6版本",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:node-webot/co-wechat-enterprise-api.git"
+    "url": "git@github.com:totogo/co-wechat-enterprise-api.git"
   },
   "keywords": [
     "weixin",
@@ -22,8 +22,7 @@
   "dependencies": {
     "co-fs": "^1.2.0",
     "formstream": ">=0.0.8",
-    "httpx": "^1.0.0",
-    "streamx": "^1.0.0"
+    "httpx": "^2.0.0"
   },
   "devDependencies": {
     "co-mocha": "^1.1.2",
